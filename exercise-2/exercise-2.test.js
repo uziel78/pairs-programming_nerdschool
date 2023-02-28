@@ -1,0 +1,30 @@
+const exercise2 = require("./exercise-2");
+
+describe("fizzBuzzRange", () => {
+  test("please name me as well", () => {
+    const correctResult = [
+      1,
+      2,
+      "Fizz",
+      4,
+      "Buzz",
+      "Fizz",
+      7,
+      8,
+      "Fizz",
+      "Buzz",
+      11,
+      "Fizz",
+      13,
+      14,
+      "FizzBuzz",
+      16,
+      17,
+      "Fizz",
+      19,
+      "Buzz"
+    ];
+
+    // Some test calling exercise2.fizzBuzzRange(someinput)
+  });
+});
